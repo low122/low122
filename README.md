@@ -3,21 +3,13 @@
 
 CS student at **Western University** who loves building things that's related to AI. Most of my time goes into backend systems, data pipelines, and figuring out practical ways to use LLMs.
 
+**`Python`** | **`SQL`** | **`FastAPI`** | **`Redis`** | **`Docker`** | **`Git/Github`** 
+
 ## What I'm up to
 
 - Building backend systems and APIs with **FastAPI** and **Supabase**
 - Exploring practical applications of **AI/ML** — prompt engineering, embeddings, and structured extraction
 - Always looking for interesting problems to solve with code
-
-## Tech Stack
-
-**Languages:** Python, SQL
-
-**Backend & APIs:** FastAPI, REST APIs, Supabase, PostgreSQL, Redis
-
-**AI/NLP:** LLMs, Prompt Engineering, Claude API, Voyage Embeddings
-
-**Tools:** Git/GitHub, Redis Streams, Docker
 
 ## Projects
 
