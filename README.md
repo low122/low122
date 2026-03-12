@@ -20,10 +20,10 @@ CS student at **Western University** who loves building things that's related to
 
 ## 📌 Featured Projects
 
-### [EmailPipeLine]([https://github.com/low122](https://github.com/low122/EmailPipeLine))
+### [EmailPipeLine](https://github.com/low122/EmailPipeLine))
 Event-driven data processing pipeline for classification and structured extraction. Processes 12,000+ items/hour using Redis Streams with a 5-phase architecture (ingest → normalize → match → classify → persist). Uses Voyage embeddings for semantic matching and Claude for intelligent extraction.
 
-### [OpenQuest]([https://github.com/low122](https://github.com/Jacky040124/openquest))
+### [OpenQuest](https://github.com/Jacky040124/openquest)
 Hackathon project that matches developers to open-source repositories and surfaces issues by analyzing code context. Features an AI agent loop that inspects files and reasons about root causes, with automated forking and PR-ready workflow.
 
 ## 📬 Let's connect
