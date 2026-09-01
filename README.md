@@ -13,7 +13,7 @@ CS student at **Western University** who loves building things that's related to
 
 ## Projects
 
-### Douyin Knowledge Base
+### [Douyin Knowledge Base](https://github.com/low122/douyin)
 A self-hosted search engine that turns saved Douyin videos into searchable, time-bounded segments. Uses hybrid Chinese retrieval with full-text search, pgvector, and Reciprocal Rank Fusion, then deep-links results back to the relevant second in the original video.
 
 ### [EmailPipeLine](https://github.com/low122/EmailPipeLine)
