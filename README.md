@@ -13,14 +13,14 @@ CS student at **Western University** who loves building things that's related to
 
 ## Projects
 
-### [Podwise](https://github.com/low122/podwise)
-An agentic RAG pipeline that indexes YouTube transcripts and lets you search across all of them with natural language. Ask any question, get structured answers with clickable timestamp links that jump to the exact moment.
+### Douyin Knowledge Base
+A self-hosted search engine that turns saved Douyin videos into searchable, time-bounded segments. Uses hybrid Chinese retrieval with full-text search, pgvector, and Reciprocal Rank Fusion, then deep-links results back to the relevant second in the original video.
 
 ### [EmailPipeLine](https://github.com/low122/EmailPipeLine)
 Event-driven data processing pipeline for classification and structured extraction. Processes 12,000+ items/hour using Redis Streams with a 5-phase architecture (ingest → normalize → match → classify → persist). Uses Voyage embeddings for semantic matching and Claude for intelligent extraction.
 
-### [OpenQuest](https://github.com/Jacky040124/openquest)
-Hackathon project that matches developers to open-source repositories and surfaces issues by analyzing code context. Features an AI agent loop that inspects files and reasons about root causes, with automated forking and PR-ready workflow
+### [CSUS Interview Analysis Project](https://github.com/Western-CSUS-2025-2026/CSUS-Project-25-26)
+Backend workflow for interview video analysis at Western CSUS. Built FastAPI endpoints for upload, indexing, and analysis, integrated TwelveLabs for structured scoring and feedback, and secured S3/SNS callbacks with HMAC-SHA256 verification.
 
 ## Connect with me
 <a href="https://linkedin.com/in/jiatzinlow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
